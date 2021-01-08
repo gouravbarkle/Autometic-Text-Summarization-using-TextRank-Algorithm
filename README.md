@@ -1,5 +1,3 @@
-# Autometic-Text-Summarization-using-TextRank-Algorithm
-
 # What is Text Summarization?
 
 Text Summarization is one of the most challenging and interesting problems in the field of Natural Language Processing (NLP).
